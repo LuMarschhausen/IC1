@@ -40,7 +40,7 @@ um tamanho adequado para o conjunto de treinamento em problemas de aprendizado d
 # <h1 align="center"> Regressão Linear </h1>
 
 
-- **Questão 1**
+- **Questão 1**  
 Média de E_in: 0.039180000000000006  
 **Resposta (c) aprox 0.01**  
 O resultado de E_out médio reflete a eficácia da Regressão Linear em classificar corretamente os pontos de treinamento. Em aprendizado de máquina, 
@@ -80,7 +80,7 @@ Esse experimento demonstra a importância da inicialização dos pesos e do núm
 - Questão 1  
 Média de E_in: 0.504521  
 **Resposta (d)**  
-O resultado do experimento mostra os desafios e considerações importantes de aprendizado de máquina, incluindo o manejo de ruído, a importância da complexidade do modelo, e a necessidade de transformações de atributos para melhorar a capacidade de generalização do modelo.
+O resultado desse experimento mostra os desafios e considerações importantes de aprendizado de máquina, incluindo o manejo de ruído, a importância da complexidade do modelo, e a necessidade de transformações de atributos para melhorar a capacidade de generalização do modelo.
 
 - Questão 2  
 Média de E_in: 0.123675  
